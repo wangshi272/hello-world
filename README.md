@@ -29,3 +29,18 @@ ahead of 是指还没有合并的修改，behind是已经合并的修改。
 
 18:12 补充：
 Create pull request 这是个绿色的按钮上的文字。
+在新的页面上，在最下面用颜色标出了修改了哪些内容；
+修改后的或者说新添加的内容是绿色的；
+
+中间，还有一个绿色的按钮，文本：Create pull request
+再点击！
+
+在新页中如果出现：
+No conflicts with base branch
+Merging can be performed automatically.
+说明没有冲突。
+再点击绿色的按钮：Merge pull request!
+之后如果成功，就能合并到main里面了。
+
+这应该就是全部的流程了。
+## 果然，跟着官方教程才能学会这个东西。
