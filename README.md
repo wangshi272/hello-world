@@ -48,3 +48,13 @@ Merging can be performed automatically.
 ## 差点忽略了，按教程说，最后要删除分支。
 ## 这是正确的。
 要不然分支越来越多了。
+
+18:29 更新：
+Pull request successfully merged and closed
+You're all set — the readme-edits branch can be safely deleted.
+合并成功后上面有这样两行英文；
+后面有一个按钮，上面写着：
+**Delete branch**
+点击应该就能删除分支了，
+如果验证是正确的，就不再更新这个了。
+
