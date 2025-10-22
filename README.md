@@ -21,3 +21,8 @@ commit 之后，会回到文件的预览界面；
 会有类似：This branch is 1 commit ahead of, 2 commits behind main.
 这样的文字；
 ahead of 是指还没有合并的修改，behind是已经合并的修改。
+
+18:10 补充：
+直接点击  2 commits ahead of
+这是一个链接；
+点进去能看到具体的更改。
