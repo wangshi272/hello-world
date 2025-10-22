@@ -26,3 +26,6 @@ ahead of 是指还没有合并的修改，behind是已经合并的修改。
 直接点击  2 commits ahead of
 这是一个链接；
 点进去能看到具体的更改。
+
+18:12 补充：
+Create pull request 这是个绿色的按钮上的文字。
