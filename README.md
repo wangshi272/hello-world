@@ -34,3 +34,13 @@ Create pull request 这是个绿色的按钮上的文字。
 
 中间，还有一个绿色的按钮，文本：Create pull request
 再点击！
+
+在新页中如果出现：
+No conflicts with base branch
+Merging can be performed automatically.
+说明没有冲突。
+再点击绿色的按钮：Merge pull request!
+之后如果成功，就能合并到main里面了。
+
+这应该就是全部的流程了。
+## 果然，跟着官方教程才能学会这个东西。
