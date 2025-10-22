@@ -18,3 +18,6 @@ commit 之后，会回到文件的预览界面；
 
 18:03 补充：
 之后，要点备份仓库的名称！
+会有类似：This branch is 1 commit ahead of, 2 commits behind main.
+这样的文字；
+ahead of 是指还没有合并的修改，behind是已经合并的修改。
